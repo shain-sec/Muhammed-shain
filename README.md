@@ -1,171 +1,243 @@
-<h1 align="center">Hi, I'm Muhammed Shain 👋</h1>
+# 🛡️ Cybersecurity Portfolio
 
-<p align="center">
-  <b>Cybersecurity Analyst • Threat Detection • SOC • Penetration Testing</b>
-</p>
+Welcome to my cybersecurity portfolio.
 
-<p align="center">
-Building practical cybersecurity solutions through offensive security, threat detection, and security automation.
-</p>
+This repository documents my journey from learning the fundamentals of cybersecurity to building practical security projects, conducting research, and developing hands-on experience in offensive and defensive security.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=0078D4&center=true&vCenter=true&width=760&lines=Threat+Detection+%26+Incident+Response;Security+Operations+(SOC)+%7C+SIEM;Penetration+Testing+%26+Vulnerability+Assessment;Threat+Hunting+%7C+Detection+Engineering;Building+Practical+Cybersecurity+Projects" alt="Typing SVG"/>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/muhammedshain">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://medium.com/@shain11">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
-
-  <a href="mailto:muhammedshain047@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+Rather than simply collecting certificates, my goal is to understand how attackers operate, build systems that detect them, and continuously improve my technical skills through real-world projects.
 
 ---
 
-# 👨‍💻 About Me
+# 👋 About Me
 
-I'm an **M.Sc. Cybersecurity graduate** and **Certified Ethical Hacker (CEH)** with hands-on experience in **Security Operations (SOC)**, **Threat Detection**, **Incident Response**, **Penetration Testing**, and **Vulnerability Assessment**.
+Hi, I'm **Muhammed Shain**.
 
-I enjoy building practical cybersecurity projects that simulate real-world attacks, automate security analysis, and strengthen defensive capabilities through offensive security techniques.
+I completed my **M.Sc. in Cybersecurity** and earned certifications including **Certified Ethical Hacker (CEH)**, **Certified Penetration Tester (CPT)** and **ISO/IEC 27001 Information Security Associate**.
 
----
+Throughout my academic journey I developed an interest in both offensive and defensive security.
 
-# 🚀 Current Focus
+I enjoy:
 
-- 🛡️ Honeypot Engineering
-- 📊 Detection Engineering & SIEM (Splunk)
-- 🎯 Threat Hunting
-- 🐍 Python Security Automation
-- 🌐 Web Application Security
-- 🔍 Incident Response
+- Finding security weaknesses
+- Understanding attacker behaviour
+- Building detection systems
+- Automating security tasks
+- Learning new security technologies
 
----
+Today my primary interests are:
 
-# ⭐ Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🛡️ Honeypot Ecosystem with ML-Based Attacker Profiling | Multi-service honeypot combining Flask and Cowrie to capture attacks, classify attacker behaviour using Machine Learning, and provide centralized security monitoring. |
-| 📊 SOC Detection Lab | Detection engineering, log analysis, alert triage, and SIEM investigations using Splunk. |
-| 🐍 Python Security Tools | Collection of automation tools for reconnaissance, log analysis, vulnerability assessment, and SOC workflows. |
-| 🌐 Web Application Security Lab | Hands-on penetration testing covering OWASP Top 10 vulnerabilities with exploitation and remediation guidance. |
-| 🎯 Threat Hunting Lab | Windows Event Logs, Sigma Rules, MITRE ATT&CK mapping, and threat hunting scenarios. |
+- Security Operations (SOC)
+- Threat Detection
+- Detection Engineering
+- Threat Hunting
+- Incident Response
+- Penetration Testing
 
 ---
 
-# 📚 Publications
+# 🚀 My Journey
 
-### 📄 A Post-Quantum-Resilient IoT Device Authentication Framework
+Like many people entering cybersecurity, I began by learning networking, Linux, operating systems and web technologies.
 
-**International Research Journal on Advanced Engineering and Management (IRJAEM) • 2026**
+From there I started exploring ethical hacking, vulnerability assessment and penetration testing.
 
-- Proposed **PQ-IoTGuard**, a post-quantum IoT authentication framework integrating lattice-based cryptography, AI-based anomaly detection, and blockchain to strengthen IoT security against future quantum threats.
+As my knowledge grew, I became increasingly interested in the defensive side of cybersecurity—understanding how attacks are detected, investigated and mitigated.
 
-🔗 https://goldncloudpublications.com/index.php/irjaem/article/view/1645
+That led me toward Security Operations (SOC), SIEM technologies, threat hunting and detection engineering.
 
----
-
-### 📄 Ethical Hacking and Its Impact on Society: Security and Challenges
-
-**Yenepoya University • 2025**
-
-- Research exploring ethical hacking methodologies, penetration testing practices, cybersecurity ethics, defensive security strategies, and emerging challenges through real-world case studies.
+My projects reflect that progression—from offensive security techniques to building systems that strengthen defensive security.
 
 ---
 
-# 🏆 Highlights
+# 🛠️ Featured Projects
 
-- 🎯 Certified Ethical Hacker (CEH)
-- 🧪 Certified Penetration Tester (CPT)
-- 🔐 ISO/IEC 27001 Information Security Associate
-- 🏅 Hall of Fame — Cyber & Forensics Security Solutions (CFSS)
-- 📄 Published Cybersecurity Research
-- 🏆 Top 20 — Ajman University CTF Competition
+## 🛡️ Honeypot Ecosystem with ML-Based Attacker Profiling
+
+My flagship cybersecurity project.
+
+A multi-service honeypot ecosystem designed to capture real attack traffic, analyse attacker behaviour and classify attacks using Machine Learning.
+
+### Technologies
+
+- Python
+- Flask
+- Cowrie
+- SQLite
+- Splunk
+- Kali Linux
+- VirtualBox
+
+### Features
+
+- Multi-service honeypot deployment
+- SSH attack monitoring
+- Web attack logging
+- ML-based attacker profiling
+- Centralised dashboard
+- Attack analytics
 
 ---
 
-# 🛠️ Tech Stack
+## 📊 SOC Detection Lab
+
+Hands-on Security Operations laboratory focusing on:
+
+- SIEM investigations
+- Log analysis
+- Alert triage
+- Detection engineering
+- MITRE ATT&CK mapping
+- Incident investigation
+
+---
+
+## 🌐 Web Application Security Lab
+
+A practical penetration testing environment covering:
+
+- OWASP Top 10
+- Burp Suite
+- SQL Injection
+- XSS
+- Authentication testing
+- Security recommendations
+
+---
+
+## 🐍 Python Security Tools
+
+Collection of Python utilities developed for security automation including:
+
+- Log analysis
+- IOC extraction
+- Network reconnaissance
+- Security automation
+- Detection workflows
+
+---
+
+## 🎯 Threat Hunting Lab
+
+Blue-team focused laboratory exploring:
+
+- Windows Event Logs
+- Sigma Rules
+- MITRE ATT&CK
+- Threat Hunting
+- Detection use cases
+
+---
+
+# 📚 Research
+
+## A Post-Quantum-Resilient IoT Device Authentication Framework
+
+Published in:
+
+**International Research Journal on Advanced Engineering and Management (IRJAEM)**
+
+The research proposes **PQ-IoTGuard**, a framework that combines:
+
+- Lattice-based cryptography
+- AI-driven anomaly detection
+- Blockchain
+- Zero Trust concepts
+
+to strengthen IoT authentication against emerging quantum computing threats.
+
+📄 Publication
+
+https://goldncloudpublications.com/index.php/irjaem/article/view/1645
+
+---
+
+## Ethical Hacking and Its Impact on Society
+
+An academic publication exploring:
+
+- Ethical hacking
+- Security testing
+- Responsible disclosure
+- Cybersecurity ethics
+- Future challenges
+
+---
+
+# 🏆 Achievements
+
+- Hall of Fame — Cyber & Forensics Security Solutions (CFSS)
+- Top 20 — Ajman University CTF
+- Certified Ethical Hacker (CEH)
+- Certified Penetration Tester (CPT)
+- ISO/IEC 27001 Information Security Associate
+
+---
+
+# 💻 Technical Skills
 
 ### Security
 
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square)
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark)
-![Cowrie](https://img.shields.io/badge/Cowrie-Honeypot-blue?style=flat-square)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux)
+- Security Operations (SOC)
+- Threat Detection
+- Incident Response
+- Penetration Testing
+- Vulnerability Assessment
+- Threat Hunting
 
-### Frameworks
+### Tools
 
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-red?style=flat-square)
-![OWASP Top 10](https://img.shields.io/badge/OWASP-Top10-black?style=flat-square)
-![NIST CSF](https://img.shields.io/badge/NIST-CSF-blue?style=flat-square)
-![NIST RMF](https://img.shields.io/badge/NIST-RMF-informational?style=flat-square)
-![ISO 27001](https://img.shields.io/badge/ISO-27001-success?style=flat-square)
+- Splunk
+- Burp Suite
+- Metasploit
+- Wireshark
+- Nmap
+- Cowrie
+- Kali Linux
 
 ### Programming
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+- Python
+- Bash
+- PowerShell
+- JavaScript
+- HTML
 
 ---
 
-# 🎯 Areas of Interest
+# 📖 Currently Learning
+
+Cybersecurity is constantly evolving, and so is my learning.
+
+Currently I'm focusing on:
+
+- Microsoft Sentinel
+- Detection Engineering
+- Sigma Rules
+- Malware Analysis
+- Active Directory Security
+- Security Automation
+- Purple Teaming
+
+---
+
+# 🎯 Career Goal
+
+I'm seeking opportunities where I can contribute to:
 
 - Security Operations Center (SOC)
 - Threat Detection
 - Incident Response
 - Detection Engineering
 - Threat Hunting
-- Penetration Testing
-- Vulnerability Assessment
-- Security Automation
-- Network Security
-- Web Application Security
 
----
-
-# 📚 Currently Learning
-
-- Microsoft Sentinel
-- Detection Engineering
-- Sigma Rules
-- YARA
-- Velociraptor
-- Malware Analysis
-- Active Directory Security
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shain-sec&show_icons=true&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shain-sec&layout=compact&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shain-sec&hide_border=true"/>
-</p>
+while continuing to build practical cybersecurity solutions and contribute to the security community.
 
 ---
 
 # 🤝 Let's Connect
 
-I'm always open to collaborating on cybersecurity projects, detection engineering, penetration testing, and open-source security tools.
+If you're interested in cybersecurity, research, collaboration or simply exchanging ideas, feel free to connect.
 
-<p align="center">
-<a href="https://linkedin.com/in/muhammedshain">
-<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</p>
+- 💼 LinkedIn
+- ✍️ Medium
+- 📧 Email
