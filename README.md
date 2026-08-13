@@ -28,7 +28,6 @@ Today my primary interests are:
 
 - Security Operations (SOC)
 - Threat Detection
-- Detection Engineering
 - Threat Hunting
 - Incident Response
 - Penetration Testing
