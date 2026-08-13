@@ -61,7 +61,6 @@ A multi-service honeypot ecosystem designed to capture real attack traffic, anal
 - Python
 - Flask
 - Cowrie
-- SQLite
 - Splunk
 - Kali Linux
 - VirtualBox
