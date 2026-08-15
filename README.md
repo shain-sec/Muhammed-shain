@@ -24,7 +24,7 @@ I enjoy:
 - Automating security tasks
 - Learning new security technologies
 
-Today my primary interests are:
+My primary interests are:
 
 - Security Operations (SOC)
 - Threat Detection
