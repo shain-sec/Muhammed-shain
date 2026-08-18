@@ -15,9 +15,6 @@ Hi, I'm **Muhammed Shain**.
 I completed my **M.Sc. in Cybersecurity** and earned certifications including **Certified Ethical Hacker (CEH)**, **Certified Penetration Tester (CPT)** and **ISO/IEC 27001 Information Security Associate**.
 
 Throughout my academic journey I developed an interest in both offensive and defensive security.
-
-I enjoy:
-
 - Finding security weaknesses
 - Understanding attacker behaviour
 - Building detection systems
