@@ -4,7 +4,7 @@ Welcome to my cybersecurity portfolio.
 
 This repository documents my journey from learning the fundamentals of cybersecurity to building practical security projects, conducting research, and developing hands-on experience in offensive and defensive security.
 
-Rather than simply collecting certificates, my goal is to understand how attackers operate, build systems that detect them, and continuously improve my technical skills through real-world projects.
+Rather than simply collecting certificates, my goal is to understand how attackers operate, build systems that detect them.
 
 ---
 
